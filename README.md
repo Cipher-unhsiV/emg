@@ -7,7 +7,7 @@ sdk: gradio
 sdk_version: 5.9.1
 app_file: app.py
 pinned: false
-license: mit
+license: gpl
 short_description: Gradio app, performing multiclass-classification on emg sig!
 ---
 
